@@ -1,3 +1,3 @@
 # primeng-primeflex-gridsystem
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/primeng-primeflex-gridsystem-demo-4dyhqr)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-ezcefw?file=README.md)
